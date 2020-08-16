@@ -4,7 +4,12 @@ This is my attempt at an rvascript notebook
 
 beep bop
 
+anthony showing stuff
+
 ```{r}
-a = 5
-print(a)
+
+for(i in 1:5){
+  print(i)
+}
+
 ```
