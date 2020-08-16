@@ -2,6 +2,8 @@
 
 This is my attempt at an rvascript notebook
 
+beep bop
+
 ```{r}
 a = 5
 print(a)
